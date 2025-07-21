@@ -2,9 +2,9 @@
 
 A multi-agent system for simulating autonomous delivery drones and ground robots with intelligent task allocation, pathfinding, and real-time optimization.
 
-## Technical Skills Demonstrated
+## Technical Skills that I Used and Explored in this Project
 
-This project showcases comprehensive software engineering capabilities across multiple domains:
+Here are some of the many areas of computer science that I used and explored through building this project:
 
 **Object-Oriented Design & Programming Languages**
 - Complete Python class hierarchy with Robot, Task, and CityGrid classes featuring encapsulation, inheritance, and polymorphism

@@ -16,22 +16,26 @@ Key features:
 
 ## Architecture
 
-### Multi-Tiered System Design
+### System Architecture
 
-```
-┌─────────────────────────┐
-│   Presentation Tier     │  ← GUI Visualization (pygame)
-├─────────────────────────┤
-│     Logic Tier          │  ← REST API Service (Flask)
-│  - Task Assignment      │    Robot Clients
-│  - Optimization Engine  │    Simulation Manager
-│  - Pathfinding Service  │
-├─────────────────────────┤
-│      Data Tier          │  ← SQLite Database
-│  - Historical Analytics │    Performance Metrics
-│  - System Telemetry     │    Optimization Logs
-└─────────────────────────┘
-```
+The system follows a three-tier architecture:
+
+**Presentation Layer**
+- GUI visualization using pygame
+- Real-time monitoring interface
+- Interactive robot/task selection
+
+**Logic Layer** 
+- REST API service (Flask)
+- Robot client applications
+- Task assignment optimization engine
+- A* pathfinding service
+- Multi-threaded simulation manager
+
+**Data Layer**
+- SQLite database for persistence
+- Historical analytics and performance metrics
+- System telemetry and optimization logs
 
 ### Core Components
 

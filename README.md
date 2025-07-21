@@ -1,10 +1,10 @@
-# SwarmDash - Multi-Agent Delivery System Simulation
+# Simulating Multi-Agent Drone Delivery System by Leveraging Dynamic Task Allocation
 
 A multi-agent system for simulating autonomous delivery drones and ground robots with intelligent task allocation, pathfinding, and real-time optimization.
 
 ## Project Overview
 
-SwarmDash is a project I built to explore autonomous delivery systems. I wanted to understand how drones and robots coordinate to solve complex logistics problems, so I built this simulation to model real-world challenges.
+I built this project to explore autonomous delivery systems. I wanted to understand how drones and robots coordinate to solve complex logistics problems, so I built this simulation to model real-world challenges. As a brief overview, some of the keys features that I've built into this project are:
 
 Key features:
 - Intelligent robot fleet with autonomous behavior

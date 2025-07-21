@@ -1,0 +1,17 @@
+numpy>=1.21.0
+scipy>=1.7.0
+pulp>=2.6.0
+flask>=2.0.0
+requests>=2.25.0
+sqlite3
+pygame>=2.1.0
+matplotlib>=3.5.0
+heapq
+threading
+dataclasses
+uuid
+json
+datetime
+random
+math
+time

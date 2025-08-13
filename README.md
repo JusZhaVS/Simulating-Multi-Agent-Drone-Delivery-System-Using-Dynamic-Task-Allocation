@@ -7,9 +7,9 @@ A multi-agent system for simulating autonomous delivery drones and ground robots
 Here are some of the many areas of computer science that I used and explored through building this project:
 
 **Object-Oriented Design & Programming Languages**
-- Complete Python class hierarchy with Robot, Task, and CityGrid classes featuring encapsulation, inheritance, and polymorphism
-- Design patterns including Strategy and Observer for modular architecture
-- Type hints, comprehensive documentation, and PEP 8 compliant code
+- Complete Python class hierarchy with Robot, Task, and CityGrid classes featuring encapsulation, inheritance, and polymorphism.
+- Design patterns including Strategy and Observer for modular architecture.
+- Type hints, comprehensive documentation, and PEP 8 compliant code.
 
 **Computer Science Fundamentals**
 - A* pathfinding algorithm implementation with O(b^d) complexity analysis

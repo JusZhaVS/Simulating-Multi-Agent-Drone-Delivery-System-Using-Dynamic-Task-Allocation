@@ -47,7 +47,7 @@ Here are some of the many areas of computer science that I used and explored thr
 
 I built this project to explore autonomous delivery systems. I wanted to understand how drones and robots coordinate to solve complex logistics problems, so I built this simulation to model real-world challenges.
 
-Key features:
+The key features of the project are as follows:
 - Intelligent robot fleet with autonomous behavior
 - Mathematical optimization for task assignment  
 - Distributed system architecture
